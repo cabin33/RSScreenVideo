@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>388AE1BC-32A9-41D8-BD02-EAA9107BDC24</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RSScreenVideo-Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>82F04B09-9B69-4563-8043-5028D4E5B640</key>
+		<string>https://github.com/RareSloth/RSScreenVideo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RSScreenVideo-Example/RSScreenVideo-Example.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>82F04B09-9B69-4563-8043-5028D4E5B640</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RareSloth/RSScreenVideo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>82F04B09-9B69-4563-8043-5028D4E5B640</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>82F04B09-9B69-4563-8043-5028D4E5B640</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RSScreenVideo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
