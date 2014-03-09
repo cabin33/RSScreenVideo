@@ -1,5 +1,7 @@
 #RSScreenVideo
 
+__NOTE__: This code only works in the simulator with cocos2d v3, but should work with earlier versions. I'll be integrating the thoughts from this website into the next update: http://indieambitions.com/uncategorized/cvopenglestexturecache-awesome/
+
 A very light utility for recording gameplay in a cocos2d game. Configuration is kept to a minimum to keep it extremely simple. The output will be .mov files in the application's Documents directory.
 
 Please do not attempt to use this in production code, as you'll probably get rejected.
